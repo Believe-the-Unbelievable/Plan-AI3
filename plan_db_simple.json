@@ -1,0 +1,48 @@
+[
+  {
+    "plan_id": "house_8x12_A",
+    "uiiv": [8, 12, 0, 1, 1, 1, 1, 1, 1],
+    "plot_width": 8,
+    "plot_height": 12,
+    "rooms": {
+      "Toilet": [4, 6, 4, 6],
+      "Parking": [0, 0, 5, 3],
+      "Sitout": [5, 0, 3, 3],
+      "Living room": [0, 3, 4, 3],
+      "Kitchen": [4, 3, 4, 3],
+      "Dining": [0, 6, 4, 6]
+    }
+  },
+  {
+    "plan_id": "house_10x10_A",
+    "uiiv": [10, 10, 1, 1, 1, 1, 1, 1, 1],
+    "plot_width": 10,
+    "plot_height": 10,
+    "rooms": {
+      "Bedroom1": [0, 3, 5, 4],
+      "Toilet": [0, 7, 3, 3],
+      "Parking": [0, 0, 7, 3],
+      "Sitout": [7, 0, 3, 3],
+      "Living room": [5, 3, 5, 4],
+      "Kitchen": [3, 7, 4, 3],
+      "Dining": [7, 7, 3, 3]
+    }
+  },
+  {
+    "plan_id": "house_10x20_A",
+    "uiiv": [10, 20, 2, 2, 1, 1, 1, 1, 1],
+    "plot_width": 10,
+    "plot_height": 20,
+    "rooms": {
+      "Bedroom1": [0, 4, 5, 4],
+      "Bedroom2": [0, 10, 5, 7],
+      "Toilet1": [0, 8, 5, 2],
+      "Toilet2": [0, 17, 5, 3],
+      "Parking": [0, 0, 7, 4],
+      "Sitout": [7, 0, 3, 4],
+      "Living room": [5, 4, 5, 5],
+      "Kitchen": [5, 13, 5, 7],
+      "Dining": [5, 9, 5, 4]
+    }
+  }
+]
