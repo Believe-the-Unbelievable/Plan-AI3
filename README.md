@@ -25,3 +25,12 @@ Run the pipeline:
 or
 
     python3 pipeline.py
+## 👤 Author
+### Muhammad Azeem
+Machine Learning & Data Science Enthusiast
+
+Any queries: muhammedazeemph15@gmail.com    
+
+    
+
+    
